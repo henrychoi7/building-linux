@@ -1,3 +1,5 @@
+// 화면을 지우는 소스 코드
+
 int main() {
     int i = 0;
     char* pcVideoMemory = ( char* ) 0xB8000;
